@@ -63,6 +63,6 @@
 
 ###
 
-<p align="left">🍔 Likes good foods<br>🎬  Watching movies<br>🎧 Listening to music<br>🏐 Volleyball <br>✈️ Overseas Trip<br>📷 Photo Taking <br>🎳 Bowling <br>🎱 Table Pool<br>🎮 Gaming</p>
+<p align="left">🍔 Likes good foods     | 📷 Photo Taking |🎬  Watching movies |🎧 Listening to music | 🎱 Table Pool | 🎳 Bowling | 🏐 Volleyball              | 🎮 Gaming | ✈️ Overseas Trip</p>
 
 ###
