@@ -58,3 +58,11 @@
 </div>
 
 ###
+
+<h2 align="left">Interests</h2>
+
+###
+
+<p align="left">🍔 Likes good foods<br>🎬  Watching movies<br>🎧 Listening to music<br>🏐 Volleyball <br>✈️ Overseas Trip<br>📷 Photo Taking <br>🎳 Bowling <br>🎱 Table Pool<br>🎮 Gaming</p>
+
+###
