@@ -50,10 +50,10 @@
 ###
 
 <div align="left">
-  <a href="tancaseyy@gmail.com" target="_blank">
+  <a href="gmail:tancaseyy@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="linkedin.com/in/casey-tan-wee-liang-0703ba273" target="_blank">
+  <a href="https://www.linkedin.com/in/casey-tan-wee-liang-0703ba273?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BvICof5j6TzOdL4NowDgjtw%3D%3D" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
